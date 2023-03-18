@@ -3,5 +3,5 @@
  
  **Installation:**
 
-npm i inflab9pack1
+<i><b>npm i inflab9pack1<b></i>
  
