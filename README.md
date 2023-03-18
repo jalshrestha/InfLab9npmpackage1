@@ -2,7 +2,7 @@
  This is the simple package created for INF Lab.
  <style>
  i{
- color:red;
+ color:"red";
  }
  </style>
  **Installation:**
